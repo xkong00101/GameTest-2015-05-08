@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="1,8,6" type="Haxe">
+    <CLASSES>
+      <root url="file:///usr/lib/haxe/lib/actuate/1,8,6" />
+      <root url="file:///usr/lib/haxe/lib/box2d/1,2,3" />
+      <root url="file:///usr/lib/haxe/lib/flixel-addons/1,1,0" />
+      <root url="file:///usr/lib/haxe/lib/flixel-demos/1,1,2" />
+      <root url="file:///usr/lib/haxe/lib/flixel-templates/1,0,2" />
+      <root url="file:///usr/lib/haxe/lib/flixel-tools/1,0,5" />
+      <root url="file:///usr/lib/haxe/lib/flixel-ui/1,0,2" />
+      <root url="file:///usr/lib/haxe/lib/flixel/3,3,8" />
+      <root url="file:///usr/lib/haxe/lib/hxcpp/3,2,102" />
+      <root url="file:///usr/lib/haxe/lib/layout/1,2,0" />
+      <root url="file:///usr/lib/haxe/lib/lime-samples/2,3,0" />
+      <root url="file:///usr/lib/haxe/lib/lime/2,4,3" />
+      <root url="file:///usr/lib/haxe/lib/openfl-samples/2,2,2" />
+      <root url="file:///usr/lib/haxe/lib/openfl/3,0,8" />
+      <root url="file:///usr/lib/haxe/lib/swf/1,8,7" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///usr/lib/haxe/lib/actuate/1,8,6" />
+      <root url="file:///usr/lib/haxe/lib/box2d/1,2,3" />
+      <root url="file:///usr/lib/haxe/lib/flixel-addons/1,1,0" />
+      <root url="file:///usr/lib/haxe/lib/flixel-demos/1,1,2" />
+      <root url="file:///usr/lib/haxe/lib/flixel-templates/1,0,2" />
+      <root url="file:///usr/lib/haxe/lib/flixel-tools/1,0,5" />
+      <root url="file:///usr/lib/haxe/lib/flixel-ui/1,0,2" />
+      <root url="file:///usr/lib/haxe/lib/flixel/3,3,8" />
+      <root url="file:///usr/lib/haxe/lib/hxcpp/3,2,102" />
+      <root url="file:///usr/lib/haxe/lib/layout/1,2,0" />
+      <root url="file:///usr/lib/haxe/lib/lime-samples/2,3,0" />
+      <root url="file:///usr/lib/haxe/lib/lime/2,4,3" />
+      <root url="file:///usr/lib/haxe/lib/openfl-samples/2,2,2" />
+      <root url="file:///usr/lib/haxe/lib/openfl/3,0,8" />
+      <root url="file:///usr/lib/haxe/lib/swf/1,8,7" />
+    </SOURCES>
+  </library>
+</component>

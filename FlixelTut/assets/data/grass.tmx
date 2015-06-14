@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="48" tileheight="48" nextobjectid="18">
+ <tileset firstgid="1" name="map_texture_48x48" tilewidth="48" tileheight="48">
+  <image source="map_texture_48x48.png" width="288" height="240"/>
+ </tileset>
+ <tileset firstgid="31" name="map_T" tilewidth="48" tileheight="48">
+  <image source="map_T.png" trans="fffbf5" width="226" height="3531"/>
+ </tileset>
+ <layer name="trees" width="30" height="30" visible="0">
+  <properties>
+   <property name="tileset" value="map_texture_48x48"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJyNlkmOBCEMBFkOPvH/706NVEjRMWlNH1B1g8kEL2nWGKOeMZ+x3/H7fz3jvPP3O2Fb7ziyXS/GnS/Nb/y+2Edr3Eu8a0fee66NdZ91AmsFzDk+7zCBvcV557ie/MdvukvBvsNwHHyuan7Tn0fz9MNsfp9gy3swhowv13gX8s+R43MHeY946UPa0t8T+5wPPAv31PiMEdfoy47Xd7LfF/bMhi/5YQufsWGdktfxZI6T7+jrmGzt8W9qAGvWtbQx57pNumJecliTnAvf8FKbZrAvcaY6oj+ISz+6NqiB5F3jry+JZ0zyGoO81ND6h5f51d2F5/G9XBvMbZ6NtV3ipK210fXDOGzhOEfpk2RvXuMcYSZe1z3zxv43BzGTJhAv8S7tpTaV7Lt+4rWDeWpm4k0a3OUffWDt9ZuB+k3/+13hNwFru+sLqa9Z9+3DIyz3iJQLtqWv2BPdYxIv64catML8N7xLvNThJQ72Cvdk5lG6VwmDvcKalN4nzGlrb+o1W3jObfeQ++W93OOcuyl29I/7/NHXfdk5nvi7czoe5qBNF0NrnM/E2mB/SLVZgbfrDymu1Bvri7XEedzd1/2HvdhxS7xT3FPY1kvrhc9ZYZ3+8dvBWuC3G/PJb97U030u+vIHwBYRIg==
+  </data>
+ </layer>
+ <layer name="objects" width="30" height="30">
+  <properties>
+   <property name="tileset" value="map_texture_48x48"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIwnw0AATay811JCqdtTeUXtH7aWOvaPlxqi9o/aO2jtq7+C0dyDK51EwvAAAT1gFoQ==
+  </data>
+ </layer>
+ <layer name="water" width="30" height="30">
+  <properties>
+   <property name="tileset" value="map_T"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztVdEKgDAI9P//zIc9+EctSBDZzNZFRB7IYtWd2+lGVCj8A9KDe7ST7xisq3xCc+79XaPz3FZ0lX+mS2BtPnhnmqN8UNpC17SZMH4rZ1Rffh6x5kz+1o+oBgtreHI/tS/VQ6/rtRH+Zs9IG1G/ZSFmzPAheze7BlT/NDNGfP5eQHhrn6P7yP93R7sNIou3zitUfRUKX8EGoZxD6g==
+  </data>
+ </layer>
+ <objectgroup name="walls" visible="0">
+  <object id="4" x="624" y="192" width="48" height="1056"/>
+  <object id="5" x="192" y="624" width="1008" height="48"/>
+  <object id="6" x="1152" y="192" width="48" height="1056"/>
+  <object id="7" x="1200" y="912" height="192"/>
+  <object id="9" x="1200" y="720"/>
+  <object id="10" x="1200" y="384" width="96"/>
+  <object id="11" x="1200" y="720"/>
+  <object id="12" x="1200" y="720"/>
+  <object id="14" x="960" y="528"/>
+  <object id="15" x="192" y="1200" width="1008" height="48"/>
+  <object id="16" x="192" y="192" width="48" height="1056"/>
+  <object id="17" x="192" y="192" width="1008" height="48"/>
+ </objectgroup>
+</map>
